@@ -1,0 +1,151 @@
+** Message: 00:13:35.862: environement.vala:58: Exporting primary_variable
+** Message: 00:13:35.862: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 00:13:35.862: environement.vala:177: custom_config :/etc/xdg/lubuntu:
+** Message: 00:13:35.862: environement.vala:178: config_dirs :/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 00:13:35.862: environement.vala:179: confir_dirs not null, export : /etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 00:13:35.862: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 00:13:35.862: environement.vala:218: custom_data :/etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+** Message: 00:13:35.862: environement.vala:219: data_dirs :/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 00:13:35.862: environement.vala:220: data_dirs not null, export : /etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 00:13:35.862: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 00:13:35.864: utils.vala:68: User config used : /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.864: utils.vala:89: Final file used : /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 00:13:35.884: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 00:13:35.885: settings.vala:462: Monitoring: /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.885: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 00:13:35.885: environement.vala:79: Exporting variable
+** Message: 00:13:35.885: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 00:13:35.885: environement.vala:177: custom_config :
+** Message: 00:13:35.885: environement.vala:178: config_dirs :/etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 00:13:35.885: environement.vala:179: confir_dirs not null, export : /etc/xdg/lubuntu:/etc/xdg/xdg-Lubuntu:/etc/xdg
+** Message: 00:13:35.885: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 00:13:35.885: environement.vala:218: custom_data :
+** Message: 00:13:35.885: environement.vala:219: data_dirs :/etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 00:13:35.885: environement.vala:220: data_dirs not null, export : /etc/xdg/lubuntu:/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/share/Lubuntu:/usr/local/share/:/usr/share/
+** Message: 00:13:35.885: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 00:13:35.885: utils.vala:68: User config used : /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.885: utils.vala:89: Final file used : /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.885: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 00:13:35.908: utils.vala:79: Config system location : /etc/xdg/xdg-Lubuntu/lxsession/Lubuntu
+** Message: 00:13:35.909: utils.vala:79: Config system location : /etc/xdg/lxsession/Lubuntu
+** Message: 00:13:35.909: utils.vala:85: System system path location : /etc/xdg/lxsession/Lubuntu/conffiles.conf
+** Message: 00:13:35.909: utils.vala:89: Final file used : /etc/xdg/lxsession/Lubuntu/conffiles.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 00:13:35.930: options.vala:164: Activate xsettings_manager build-in
+** Message: 00:13:35.930: utils.vala:68: User config used : /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.930: utils.vala:89: Final file used : /home/ubuntu/.config/lxsession/Lubuntu/desktop.conf
+** Message: 00:13:35.997: app.vala:76: Launching lxpanel 
+** Message: 00:13:36.015: app.vala:76: Launching xfce4-power-manager 
+
+** (lxsession:861): WARNING **: 00:13:36.017: app.vala:86: Failed to execute child process “dhcpcd-gtk” (No such file or directory)
+
+** (lxsession:861): WARNING **: 00:13:36.017: app.vala:87: Error when launching dhcpcd-gtk
+** Message: 00:13:36.096: app.vala:76: Launching pcmanfm 
+** Message: 00:13:36.096: app.vala:721: polkit separate
+** Message: 00:13:36.096: app.vala:721: polkit separate
+** Message: 00:13:36.129: app.vala:76: Launching lxpolkit 
+** Message: 00:13:36.129: utils.vala:68: User config used : /home/ubuntu/.config/lxsession/Lubuntu/autostart
+** Message: 00:13:36.129: utils.vala:89: Final file used : /home/ubuntu/.config/lxsession/Lubuntu/autostart
+** Message: 00:13:36.130: autostart.vala:42: Autostart path : /home/ubuntu/.config/lxsession/Lubuntu/autostart
+** Message: 00:13:36.146: options.vala:107: Create build-in Clipboard
+** Message: 00:13:36.151: main.vala:442: Check keymap_mode system
+** Message: 00:13:36.151: main.vala:445: Create Option Keymap
+** Message: 00:13:36.184: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-gFT79oeum0LO/agent.995; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=1000; export SSH_AGENT_PID;
+echo Agent pid 1000;
+** Message: 00:13:36.502: app.vala:130: xfce4-power-manager exit with this type of exit: 0
+** Message: 00:13:36.502: app.vala:139: Exit normal, don't reload
+** Message: 00:13:36.502: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+
+(update-notifier:1001): dbind-WARNING **: 00:13:36.621: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(nm-applet:1021): dbind-WARNING **: 00:13:36.807: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(light-locker:1025): dbind-WARNING **: 00:13:36.879: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(livepatch-notification:1045): dbind-WARNING **: 00:13:36.948: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+
+(nm-applet:1021): Gtk-WARNING **: 00:13:37.726: Can't set a parent on widget which has a parent
+** Message: 00:13:39.227: bt: Name org.bluez unowned on DBus
+
+(nm-applet:1021): Gdk-CRITICAL **: 00:13:39.306: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(lxpanel:989): Gtk-CRITICAL **: 00:13:39.614: IA__gtk_image_get_pixbuf: assertion 'image->storage_type == GTK_IMAGE_PIXBUF || image->storage_type == GTK_IMAGE_EMPTY' failed
+
+(lxpanel:989): Gtk-CRITICAL **: 00:13:39.621: IA__gtk_image_get_pixbuf: assertion 'image->storage_type == GTK_IMAGE_PIXBUF || image->storage_type == GTK_IMAGE_EMPTY' failed
+
+(lxpanel:989): libindicator-WARNING **: 00:13:39.628: IndicatorObject class does not have an accessible description.
+
+(lxpanel:989): Indicator-Application-WARNING **: 00:13:39.824: Unable to get application list: Operation was cancelled
+lxterminal
+
+(lxterminal:1172): dbind-WARNING **: 00:13:50.692: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxterminal:1172): Vte-WARNING **: 00:13:51.023: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxterminal:1172): Vte-WARNING **: 00:13:51.023: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:15.838: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:15.839: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-WARNING **: 10:38:15.921: Can't set a parent on widget which has a parent
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.104: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.104: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-WARNING **: 10:38:16.118: Can't set a parent on widget which has a parent
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.201: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.201: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-WARNING **: 10:38:16.218: Can't set a parent on widget which has a parent
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.530: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.530: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-WARNING **: 10:38:16.533: Can't set a parent on widget which has a parent
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.552: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-CRITICAL **: 10:38:16.560: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1021): Gtk-WARNING **: 10:38:16.562: Can't set a parent on widget which has a parent
+lxterminal
+
+(lxterminal:1417): dbind-WARNING **: 12:48:53.800: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxterminal:1417): Vte-WARNING **: 12:48:53.901: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxterminal:1417): Vte-WARNING **: 12:48:53.901: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+lxterminal
+
+(lxterminal:1623): dbind-WARNING **: 14:25:22.413: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxterminal:1623): Vte-WARNING **: 14:25:22.549: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxterminal:1623): Vte-WARNING **: 14:25:22.549: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
